@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+env/
+.env_python
+
+# Cache and compile files
+__pycache__/
+*.pyc
+
+# Local configuration & path variables
+.env
+
+# extra
+*.mp4
+*.avi
+
