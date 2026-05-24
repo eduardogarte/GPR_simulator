@@ -10,3 +10,7 @@ conda env create -f gpr_env.yml
 ```
 ## Usage
 It just needs to run the Demo_gpr.py file with the environment previously created. It will update with a parameterized version.
+
+## License
+[MIT]
+(https://choosealicense.com/licenses/mit/)
